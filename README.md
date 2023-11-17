@@ -1,3 +1,3 @@
 # my-portfolio1
-
-#Portfolio  https://althaf17-portfolio.netlify.app/
+Link to my portfolio application
+#Portfolio:   https://althaf17-portfolio.netlify.app/
